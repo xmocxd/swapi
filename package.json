@@ -1,8 +1,10 @@
 {
   "name": "graphql-swapi",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "graphql-swapi.js",
+  "type": "module",
   "scripts": {
+    "start": "node graphql-swapi.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
